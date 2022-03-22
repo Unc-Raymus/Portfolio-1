@@ -1,8 +1,10 @@
-The unique features of this portfolio submission that go beyond the labs initial parameters are:
-  Pop-out and collapsible detailed information for individual menu items
-  A context component (CartTotal) which allows the add-to-cart button on menu items to add their unique price to a total
-  A modified App which displays a cart total and allows users to reset it
-  An "AddToCartButton" component which acts as a consumer to the CartTotal context
+The unique features of this portfolio submission that go beyond the labs initial parameters are:\
+  Pop-out and collapsible detailed information for individual menu items\
+  A context component (CartTotal) which allows the add-to-cart button on menu items to add their unique price to a total\
+  A modified App which displays a cart total and allows users to reset it\
+  An "AddToCartButton" component which acts as a consumer to the CartTotal context\
+  
+  github pages url: https://unc-raymus.github.io/Portfolio-1/
 
 # Getting Started with Create React App
 
